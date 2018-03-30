@@ -1,0 +1,14 @@
+uuid: a66b9476-9111-4f69-843c-cdbf927c09a7
+name: dneedhams-example-site
+mail: david.needham@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
